@@ -4,6 +4,8 @@ public class LibraryTest {
     public static void main(String[] args) {
         // Create a library
         Library library = new Library();
+        System.out.println("Test change");
+
 
         // Add some books to the library
         library.addBook(new Book("Harry Potter", "J.K. Rowling", "9780439554930"));
