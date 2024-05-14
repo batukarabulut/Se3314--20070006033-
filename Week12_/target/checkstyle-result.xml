@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\moral\OneDrive\Masaüstü\Week12_\src\main\java\org\example\App.java">
+</file>
+<file name="C:\Users\moral\OneDrive\Masaüstü\Week12_\src\main\java\org\example\LoopControl.java">
+<error line="36" column="19" severity="error" message="Control variable &apos;i&apos; is modified." source="com.puppycrawl.tools.checkstyle.checks.coding.ModifiedControlVariableCheck"/>
+<error line="85" column="19" severity="error" message="Control variable &apos;m&apos; is modified." source="com.puppycrawl.tools.checkstyle.checks.coding.ModifiedControlVariableCheck"/>
+</file>
+</checkstyle>
